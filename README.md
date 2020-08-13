@@ -1,2 +1,3 @@
 # Exam-Sim
 This repository contains the code for an exam simulation program written in turbo C++
+The program displays a series of questions which the user can answer. At the end of the exam, the user is shown the correct option and they choice they marked next to it. They are also shown their rank based on all the users who took up the test prior. The details of the same are stored in a binary file. The program also featured graphics and animations to demonstrate chemical reactions, electrical circuits, graphs and other figures. All of this was coded and built from scratch by manually inserting pixels at the required coordinates.
